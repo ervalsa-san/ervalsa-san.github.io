@@ -1,5 +1,7 @@
 ## 📁 Ervalsa-San (R)-Chive
-The Official Repository for ervalsa-san 
+<a href="https://ervalsa-san.github.io/">
+<img alt="banner" width="100%" src="/banner.png" />
+</a> 
 
 ## ⚙️ Requirement
 `Hugo 0.101.0` `Chocolaty 1.1.0`
