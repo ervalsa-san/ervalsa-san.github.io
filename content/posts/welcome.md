@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "Welcome Ervalsa-san to Hugo <3"
 date: 2022-06-25T14:31:42+08:00
 draft: false
 ---
